@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CookinLima
+- 👋 Hi, I’m @kennyW
 - 👀 I’m interested in Software, Web development 
 - 🌱 I’m currently learning HTML, CSS, Javascript 
 - 💞️ I’m looking to collaborate on anything that has to with code!
